@@ -32,6 +32,6 @@ Programa que contiene un conjunto de funciones para conectar dos tipos de Softwa
 
 * Permite consumir datos de otras aplicaciones
 
- *Existen infindad de proveedores de APIs (Facebook, Youtube, Amazon, Twitter, etc.)
+ * Existen infindad de proveedores de APIs (Facebook, Youtube, Amazon, Twitter, etc.)
 
  * Directorio de proveedores de APIs: https://www.programmableweb.com/apis/directory
