@@ -27,7 +27,7 @@ Programa que contiene un conjunto de funciones para conectar dos tipos de Softwa
 * API basada en clases
 * API de sistema operativo
 
-## ¿Por qué Utilizar APIs? ## 
+## ¿Por qué utilizar APIs? ## 
 * Permite ofrecer datos a otras aplicaciones o desarrolladores en un formato estándar.
 
 * Permite consumir datos de otras aplicaciones
